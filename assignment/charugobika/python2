@@ -1,0 +1,2 @@
+planet = "The diameter of Earth is {diameter:d} kilometers"
+print(planet.format(diameter=12742))
