@@ -1,7 +1,0 @@
-import pandas as pd
-  
-per = pd.date_range(start ='1-1-2023', 
-         end ='10-02-2023')
-  
-for val in per:
-    print(val)
